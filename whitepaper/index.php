@@ -4,11 +4,11 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="profile" href="https://gmpg.org/xfn/11">
-        <link rel="icon" type="image/png" href="../images/Favicon.png">
+        <link rel="icon" type="image/png" href="../images/Favicon1.png">
         <link href="../css/aos.css" rel="stylesheet">
         <link href="../css/slick.css" rel="stylesheet">
         <link href="../css/slick-theme.css" rel="stylesheet">
-        <title>Whitepaper – Daddy Doge</title>
+        <title>Whitepaper – Stoned Doge</title>
         <meta name="robots" content="max-image-preview:large">
         <script>window._wca = window._wca || [];</script>
 <!--        <link rel="dns-prefetch" href="//stats.wp.com">
@@ -69,9 +69,13 @@
         <link rel="alternate" type="text/xml+oembed" href="https://daddydoge.finance/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdaddydoge.finance%2Fwhitepaper%2F&amp;format=xml">-->
         <style type="text/css">img#wpstats{display:none}</style>
         <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
-        <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
+        <style type="text/css">
+            .recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
+            
+        </style>
+    </head>
 
-    <body data-rsssl="1" class="page-template-default page page-id-67 theme-doge woocommerce-js" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <body data-rsssl="1" class="page-template-default page page-id-67 theme-doge woocommerce-js" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" style="background: #000;">
         <div id="page" class="site">
             <div class="top_header">
                 <div class="container">
@@ -86,11 +90,11 @@
                     </div>
                 </div>
             </div>
-            <div class="inner_page">
+            <div class="inner_page" style="background: #000;">
                 <div class="header">
                     <div class="row">
                         <div class="logo">
-                            <img src="../images/daddy-doge-horizontal-1.png">
+                            <img src="../images/logo.png" style="width: 80px; height: 80px;">
                         </div>
                         <a class="btn_mobile">
                             <span class="bar1"></span>
@@ -105,15 +109,15 @@
                             <ul id="menu-secondary" class="menu"><li id="menu-item-90" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-90"><a href="../">Home</a></li>
                                 <li id="menu-item-89" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-67 current_page_item menu-item-89"><a href="#" aria-current="page">Whitepaper</a></li>
                                 <li id="menu-item-91" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="https://dessertswap.finance/audits/DaddyDoge%20BEP-20%20Audit%209007795.pdf">Audit</a></li>
-                                <li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://daddydoge.finance/press/">Press</a></li>
-                                <li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://daddydoge.finance/merch/">Merch</a></li>
+                                <li id="menu-item-139" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="../press/">Press</a></li>
+                                <li id="menu-item-151" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="../merch/">Merch</a></li>
                                 <li id="menu-item-92" class="btn_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a target="_blank" rel="noopener" href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92">Buy</a></li>
                                 <li id="menu-item-101" class="btn_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" rel="noopener" href="https://daddydoge.moonradar.finance/swap">Swap</a></li>
                             </ul>					</div>
                     </div>
                 </div>
             </div>
-            <div id="content" class="site-content">
+            <div id="content" class="site-content" style="background: #000; color: #fff;">
 
                 <div id="primary" class="content-area">
                     <div class="container">
@@ -127,7 +131,7 @@
 
 
 
-                        <p class="has-text-align-center">Daddy Doge is a deflationary DeFi token that takes a 9% tax from each buy and sell. This tax acts to benefit the project as a whole by putting 3% in the liquidity pool for a stable price floor, 3% proportionally reflected back to all holders of a DaddyDoge token and 3% added to a marketing/dev wallet to make sure that the project is able to succeed in the long term. Another large purpose of the tax is to decentivise large token holders from buying and selling quickly and damaging the price. This almost always effects the small token holders and we want a fair coin for all.</p>
+                        <p class="has-text-align-center">Stoned Doge is a deflationary DeFi token that takes a 9% tax from each buy and sell. This tax acts to benefit the project as a whole by putting 3% in the liquidity pool for a stable price floor, 3% proportionally reflected back to all holders of a DaddyDoge token and 3% added to a marketing/dev wallet to make sure that the project is able to succeed in the long term. Another large purpose of the tax is to decentivise large token holders from buying and selling quickly and damaging the price. This almost always effects the small token holders and we want a fair coin for all.</p>
 
 
 
@@ -155,7 +159,7 @@
 
 
 
-                        <p class="has-text-align-center">Part of the core logic of the Daddy Doge contact is an automatic liquidity pool algorithm. 3% of each buy and sell is accumulated and then added to the PancakeSwap liquidity pool. One of the core aims is to reduce the price impact when larger wallets decide to sell their tokens at any point in time.</p>
+                        <p class="has-text-align-center">Part of the core logic of the Stoned Doge contact is an automatic liquidity pool algorithm. 3% of each buy and sell is accumulated and then added to the PancakeSwap liquidity pool. One of the core aims is to reduce the price impact when larger wallets decide to sell their tokens at any point in time.</p>
 
 
 
@@ -167,7 +171,7 @@
 
 
 
-                        <p class="has-text-align-center">Due to the nature of 3% of each transaction being passed on to Daddy Doge holders this has the side effect of causing the token to be deflationary. The largest “holder” is a dead wallet where 43.4% of the initial supply was burned. Since this wallet is not excluded from reflections, a proportion is added to the burn wallet thus decreasing the circulating supply slowly over time.</p>
+                        <p class="has-text-align-center">Due to the nature of 3% of each transaction being passed on to Stoned Doge holders this has the side effect of causing the token to be deflationary. The largest “holder” is a dead wallet where 43.4% of the initial supply was burned. Since this wallet is not excluded from reflections, a proportion is added to the burn wallet thus decreasing the circulating supply slowly over time.</p>
 
 
 
@@ -182,15 +186,15 @@
                 <div class="container">
                     <div class="row">
                         <div class="footer_logo">
-                            <img src="../images/daddy-doge-1.png">
+                            <img src="../images/logo-foot.png" style="border-radius: 50%;">
                         </div>
                         <div class="footer_menu">
                             <div class="footer_nav">
                                 <ul id="menu-secondary-1" class="menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-90"><a href="../">Home</a></li>
                                     <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-67 current_page_item menu-item-89"><a href="#" aria-current="page">Whitepaper</a></li>
                                     <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-91"><a href="https://dessertswap.finance/audits/DaddyDoge%20BEP-20%20Audit%209007795.pdf">Audit</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="https://daddydoge.finance/press/">Press</a></li>
-                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="https://daddydoge.finance/merch/">Merch</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-139"><a href="../press/">Press</a></li>
+                                    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-151"><a href="../merch/">Merch</a></li>
                                     <li class="btn_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-92"><a target="_blank" rel="noopener" href="https://exchange.pancakeswap.finance/#/swap?outputCurrency=0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92">Buy</a></li>
                                     <li class="btn_menu menu-item menu-item-type-custom menu-item-object-custom menu-item-101"><a target="_blank" rel="noopener" href="https://daddydoge.moonradar.finance/swap">Swap</a></li>
                                 </ul>						</div>
@@ -378,7 +382,11 @@
             loopDown5();
         </script>
 
-
+        <style>
+                    p{
+                color: #fff !important;
+            }
+        </style>
 
         <img src="https://pixel.wp.com/g.gif?v=ext&amp;j=1%3A10.0&amp;blog=196271436&amp;post=67&amp;tz=0&amp;srv=daddydoge.finance&amp;host=daddydoge.finance&amp;ref=&amp;fcp=0&amp;rand=0.11570473439433993" alt=":)" id="wpstats" width="6" height="5"></body>
 </html>

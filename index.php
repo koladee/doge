@@ -4,11 +4,11 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="profile" href="https://gmpg.org/xfn/11" />
-        <link rel="icon" type="image/png" href="images/Favicon.png">
+        <link rel="icon" type="image/png" href="images/Favicon1.png">
         <link href="cs/aos.css" rel="stylesheet">
         <link href="css/slick.css" rel="stylesheet">
         <link href="css/slick-theme.css" rel="stylesheet">
-        <title>Daddy Doge &#8211; Head of the family</title>
+        <title>Stoned Doge &#8211; Home</title>
         <meta name='robots' content='max-image-preview:large' />
         <script>window._wca = window._wca || [];</script>
 <!--        <link rel='dns-prefetch' href='//stats.wp.com' />
@@ -81,11 +81,11 @@
                     </div>
                 </div>
             </div>
-            <div class="section_top">
+            <div class="section_top" style="background: #000;">
                 <div class="header">
                     <div class="row">
                         <div class="logo">
-                            <a href="#"><img src="images/daddy-doge-horizontal-1.png"></a>
+                            <a href="#"><img src="images/logo.png" style="width: 80px; height: 80px;"></a>
                         </div>
                         <a class="btn_mobile">
                             <span class="bar1"></span>
@@ -140,7 +140,7 @@
                 <div class="box_header">
                     <div class="container">
                         <div class="site_heading" style="max-width:630px;margin:0 auto;" data-aos="fade-up">
-                            <h3>Daddy Doge - The first Doge in space</h3>
+                            <h3>Stoned Doge - The first Doge in space</h3>
                         </div>
                         <div class="video_top" data-aos="fade-up">
                             <div class="video_container">
@@ -149,18 +149,18 @@
                     </div>
                     <div class="container">
                         <div class="site_heading" data-aos="fade-up">
-                            <h3>What makes <br/>Daddy Doge so special?</h3>
+                            <h3>What makes <br/>Stoned Doge so special?</h3>
                         </div>
                         <div class="row">
                             <div class="col_box" data-aos="fade-up">
                                 <img src="images/globe-1.png">
                                 <h4>Global takeover</h4>
-                                <p>Daddy Doge is going to be plastered on billboards across the world. With ads being planned in Times Square, Picadilly Circus, and Shibuya.</p>
+                                <p>Stoned Doge is going to be plastered on billboards across the world. With ads being planned in Times Square, Picadilly Circus, and Shibuya.</p>
                             </div>
                             <div class="col_box" data-aos="fade-up">
                                 <img src="images/holding-1.png">
                                 <h4>Be rewarded by holding</h4>
-                                <p>3% of every transaction is distributed to all the Daddy Doge holders. In short, the longer you hold the more tokens you earn!</p>
+                                <p>3% of every transaction is distributed to all the Stoned Doge holders. In short, the longer you hold the more tokens you earn!</p>
                             </div>
                             <div class="col_box" data-aos="fade-up">
                                 <img src="images/lock-1.png">
@@ -171,7 +171,7 @@
                     </div>
                 </div>
             </div>
-            <div id="content" class="site-content">
+            <div id="content" class="site-content" style="background: #000;">
                 <div class="section_2" id="tokenomics">
                     <div class="container">
                         <img class="rocket_2"  data-aos="fade-up" src="images/daddy-doge-astronaught.png" >
@@ -312,7 +312,7 @@
                                         </div>
                                         <div class="slide_item">
                                             <h3>Step 4</h3>
-                                            <p>A popup will open, click the checkbox “I understand”, this will load Daddy Doge into PancakeSwap. Alternatively you can load PancakeSwap manually and use this address &#8211; <span id="copyit">0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92</span></p>
+                                            <p>A popup will open, click the checkbox “I understand”, this will load Stoned Doge into PancakeSwap. Alternatively you can load PancakeSwap manually and use this address &#8211; <span id="copyit">0x7ccE94C0B2C8aE7661f02544E62178377Fe8cF92</span></p>
                                         </div>
                                         <div class="slide_item">
                                             <h3>Step 5</h3>
@@ -338,7 +338,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="footer_logo">
-                            <img src="images/daddy-doge-1.png">
+                            <img src="images/logo-foot.png" style="border-radius: 50%;">
                         </div>
                         <div class="footer_menu">
                             <div class="footer_nav">

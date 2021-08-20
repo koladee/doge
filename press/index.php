@@ -4,17 +4,17 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="profile" href="https://gmpg.org/xfn/11">
-        <link rel="icon" type="image/png" href="../images/Favicon.png">
+        <link rel="icon" type="image/png" href="../images/Favicon1.png">
         <link href="../css/aos.css" rel="stylesheet">
         <link href="../css/slick.css" rel="stylesheet">
         <link href="../css/slick-theme.css" rel="stylesheet">
-        <title>Press – Daddy Doge</title>
+        <title>Press – Stoned Doge</title>
         <meta name="robots" content="max-image-preview:large">
         <script>window._wca = window._wca || [];</script>
 <!--        <link rel="dns-prefetch" href="//stats.wp.com">
         <link rel="dns-prefetch" href="//s.w.org">
-        <link rel="alternate" type="application/rss+xml" title="Daddy Doge » Feed" href="https://daddydoge.finance/feed/">
-        <link rel="alternate" type="application/rss+xml" title="Daddy Doge » Comments Feed" href="https://daddydoge.finance/comments/feed/">-->
+        <link rel="alternate" type="application/rss+xml" title="Stoned Doge » Feed" href="https://daddydoge.finance/feed/">
+        <link rel="alternate" type="application/rss+xml" title="Stoned Doge » Comments Feed" href="https://daddydoge.finance/comments/feed/">-->
         <script type="text/javascript">
                     window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/", "ext":".png", "svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/", "svgExt":".svg", "source":{"concatemoji":"https:\/\/daddydoge.finance\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
                     !function(e, a, t){var n, r, o, i = a.createElement("canvas"), p = i.getContext && i.getContext("2d"); function s(e, t){var a = String.fromCharCode; p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, e), 0, 0); e = i.toDataURL(); return p.clearRect(0, 0, i.width, i.height), p.fillText(a.apply(this, t), 0, 0), e === i.toDataURL()}function c(e){var t = a.createElement("script"); t.src = e, t.defer = t.type = "text/javascript", a.getElementsByTagName("head")[0].appendChild(t)}for (o = Array("flag", "emoji"), t.supports = {everything:!0, everythingExceptFlag:!0}, r = 0; r < o.length; r++)t.supports[o[r]] = function(e){if (!p || !p.fillText)return!1; switch (p.textBaseline = "top", p.font = "600 32px Arial", e){case"flag":return s([127987, 65039, 8205, 9895, 65039], [127987, 65039, 8203, 9895, 65039])?!1:!s([55356, 56826, 55356, 56819], [55356, 56826, 8203, 55356, 56819]) && !s([55356, 57332, 56128, 56423, 56128, 56418, 56128, 56421, 56128, 56430, 56128, 56423, 56128, 56447], [55356, 57332, 8203, 56128, 56423, 8203, 56128, 56418, 8203, 56128, 56421, 8203, 56128, 56430, 8203, 56128, 56423, 8203, 56128, 56447]); case"emoji":return!s([55357, 56424, 8205, 55356, 57212], [55357, 56424, 8203, 55356, 57212])}return!1}(o[r]), t.supports.everything = t.supports.everything && t.supports[o[r]], "flag" !== o[r] && (t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && t.supports[o[r]]); t.supports.everythingExceptFlag = t.supports.everythingExceptFlag && !t.supports.flag, t.DOMReady = !1, t.readyCallback = function(){t.DOMReady = !0}, t.supports.everything || (n = function(){t.readyCallback()}, a.addEventListener?(a.addEventListener("DOMContentLoaded", n, !1), e.addEventListener("load", n, !1)):(e.attachEvent("onload", n), a.attachEvent("onreadystatechange", function(){"complete" === a.readyState && t.readyCallback()})), (n = t.source || {}).concatemoji?c(n.concatemoji):n.wpemoji && n.twemoji && (c(n.twemoji), c(n.wpemoji)))}(window, document, window._wpemojiSettings);		</script><script src="https://daddydoge.finance/wp-includes/js/wp-emoji-release.min.js?ver=5.7.2" type="text/javascript" defer=""></script>
@@ -71,7 +71,7 @@
         <noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
         <style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style></head>
 
-    <body data-rsssl="1" class="page-template page-template-page-blog page-template-page-blog-php page page-id-106 theme-doge woocommerce-js" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0">
+    <body data-rsssl="1" class="page-template page-template-page-blog page-template-page-blog-php page page-id-106 theme-doge woocommerce-js" data-aos-easing="ease" data-aos-duration="400" data-aos-delay="0" style="background: #000;">
         <div id="page" class="site">
             <div class="top_header">
                 <div class="container">
@@ -90,7 +90,7 @@
                 <div class="header">
                     <div class="row">
                         <div class="logo">
-                            <img src="../images/daddy-doge-horizontal-1.png">
+                            <img src="../images/logo.png" style="width: 80px; height: 80px;">
                         </div>
                         <a class="btn_mobile">
                             <span class="bar1"></span>
@@ -145,7 +145,7 @@
                                 </div>
                                 <div class="col_blog">
                                     <div class="blog_box">
-                                        <h3>Dogecoin-Inspired Cryptocurrency Daddy Doge Trends Thanks To Elon Musk’s Shoutout</h3>
+                                        <h3>Dogecoin-Inspired Cryptocurrency Stoned Doge Trends Thanks To Elon Musk’s Shoutout</h3>
                                         <div class="source_time">
                                             <p>July 15, 2021 | Source: Bezinga</p>
                                         </div>
@@ -157,7 +157,7 @@
                                 </div>
                                 <div class="col_blog">
                                     <div class="blog_box">
-                                        <h3>Daddy Doge token’s price pumped by Elon Musk’s casual shout</h3>
+                                        <h3>Stoned Doge token’s price pumped by Elon Musk’s casual shout</h3>
                                         <div class="source_time">
                                             <p>July 15, 2021 | Source: Cryptoslate</p>
                                         </div>
@@ -177,7 +177,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="footer_logo">
-                            <img src="../images/daddy-doge-1.png">
+                            <img src="../images/logo-foot.png" style="border-radius: 50%;">
                         </div>
                         <div class="footer_menu">
                             <div class="footer_nav">
